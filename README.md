@@ -15,7 +15,6 @@ This is a app about reading and decode codes, bar and qr code.
 ### About :book:
 Convert-Code is a app about reading and decode codes, bar and qr code.
 
-
 ### How to use :open_mouth:
 Clone this repo:
 ```
