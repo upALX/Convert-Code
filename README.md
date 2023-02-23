@@ -4,7 +4,6 @@
 
 This is a app about reading and decode codes, bar and qr code.
 
-
 **:construction: This project is currently under development :construction:**
 
 ---
